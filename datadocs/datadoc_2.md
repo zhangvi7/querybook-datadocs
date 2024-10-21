@@ -8,7 +8,7 @@ meta:
 owner_uid: 2
 public: true
 title: Title 6
-updated_at: 2024-10-15 16:32:58
+updated_at: 2024-10-21 18:13:59
 ---
 
 # Title 6
@@ -20,7 +20,7 @@ id: 14
 meta:
   engine: 1
   title: query title 6
-updated_at: 2024-10-15 16:32:58
+updated_at: 2024-10-21 18:13:59
 ---
 ```query
 SELECT
@@ -31,7 +31,6 @@ WHERE
 GROUP BY
   1
 LIMIT 1000;
-
 ```
 
 ---
