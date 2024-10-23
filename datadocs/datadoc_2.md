@@ -8,7 +8,7 @@ meta:
 owner_uid: 2
 public: true
 title: Title 6
-updated_at: '2024-10-21T18:13:59'
+updated_at: '2024-10-23T02:46:09'
 ---
 
 # Title 6
@@ -20,20 +20,39 @@ id: 14
 meta:
   engine: 1
   title: query title 6
-updated_at: '2024-10-21T18:13:59'
+updated_at: '2024-10-23T02:45:58'
 -->
 ## Query: query title 6
 
 ```sql
-SELECT
-  time
-FROM default_bdp_sampled.safe_frontend_impression_event
-WHERE
-  dt >= '2024-01-01'
-GROUP BY
-  1
-LIMIT 1000;
+SELECT * FROM main.world_happiness_2015
 ```
+
+<!--
+cell_type: chart
+created_at: '2024-10-23T02:46:09'
+id: 21
+meta:
+  chart:
+    type: line
+    x_axis:
+      col_idx: 0
+      label: ''
+    y_axis:
+      label: ''
+      series: {}
+  collapsed: false
+  data:
+    source_type: cell_above
+    transformations:
+      format: {}
+  title: ''
+  visual: {}
+updated_at: '2024-10-23T02:46:09'
+-->
+## Chart
+
+*Chart generated from the metadata.*
 
 <!--
 cell_type: text
@@ -69,7 +88,7 @@ updated_at: '2024-10-15T15:32:08'
 -->
 ## Chart
 
-*Chart generated from the metadata above.*
+*Chart generated from the metadata.*
 
 <!--
 cell_type: chart
@@ -95,7 +114,59 @@ updated_at: '2024-10-15T15:32:07'
 -->
 ## Chart
 
-*Chart generated from the metadata above.*
+*Chart generated from the metadata.*
+
+<!--
+cell_type: chart
+created_at: '2024-10-23T02:45:28'
+id: 20
+meta:
+  chart:
+    type: line
+    x_axis:
+      col_idx: 0
+      label: ''
+    y_axis:
+      label: ''
+      series: {}
+  collapsed: false
+  data:
+    source_type: cell_above
+    transformations:
+      format: {}
+  title: ''
+  visual: {}
+updated_at: '2024-10-23T02:45:28'
+-->
+## Chart
+
+*Chart generated from the metadata.*
+
+<!--
+cell_type: chart
+created_at: '2024-10-23T02:45:24'
+id: 19
+meta:
+  chart:
+    type: line
+    x_axis:
+      col_idx: 0
+      label: ''
+    y_axis:
+      label: ''
+      series: {}
+  collapsed: false
+  data:
+    source_type: cell_above
+    transformations:
+      format: {}
+  title: ''
+  visual: {}
+updated_at: '2024-10-23T02:45:24'
+-->
+## Chart
+
+*Chart generated from the metadata.*
 
 <!--
 cell_type: chart
@@ -121,4 +192,4 @@ updated_at: '2024-10-11T21:56:46'
 -->
 ## Chart
 
-*Chart generated from the metadata above.*
+*Chart generated from the metadata.*
