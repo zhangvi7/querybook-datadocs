@@ -14,7 +14,7 @@ meta:
 owner_uid: 2
 public: true
 title: Title 6
-updated_at: '2024-10-24T19:44:41'
+updated_at: '2024-10-24T20:16:19'
 ---
 
 # Title 6
@@ -26,17 +26,40 @@ id: 23
 meta:
   engine: 1
   title: query title 6
-updated_at: '2024-10-23T03:48:45'
+updated_at: '2024-10-24T20:16:19'
 -->
-## Query: query title 6
-
-```sql
 ## Query: query title 6
 
 ```sql
 SELECT * FROM main.world_happiness_2019
 ```
-```
+
+
+<!--
+cell_type: chart
+created_at: '2024-10-24T20:16:19'
+id: 31
+meta:
+  chart:
+    type: line
+    x_axis:
+      col_idx: 0
+      label: ''
+    y_axis:
+      label: ''
+      series: {}
+  collapsed: false
+  data:
+    source_type: cell_above
+    transformations:
+      format: {}
+  title: ''
+  visual: {}
+updated_at: '2024-10-24T20:16:19'
+-->
+## Chart
+
+*Chart generated from the metadata.*
 
 
 <!--
