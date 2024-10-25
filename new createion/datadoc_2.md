@@ -14,7 +14,7 @@ meta:
 owner_uid: 2
 public: true
 title: Title 6
-updated_at: '2024-10-24T20:16:19'
+updated_at: '2024-10-25T17:26:00'
 ---
 
 # Title 6
@@ -25,10 +25,10 @@ created_at: '2024-10-23T03:48:45'
 id: 23
 meta:
   engine: 1
-  title: query title 6
-updated_at: '2024-10-24T20:16:19'
+  title: query title 6 1424124124
+updated_at: '2024-10-25T17:26:00'
 -->
-## Query: query title 6
+## Query: query title 6 1424124124
 
 ```sql
 SELECT * FROM main.world_happiness_2019
