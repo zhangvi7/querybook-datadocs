@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: World Happiness Report (2015-2019)
-updated_at: '2024-10-28T14:23:42'
+updated_at: '2024-10-28T16:16:33'
 ---
 
 # World Happiness Report (2015-2019)
@@ -22,9 +22,19 @@ created_at: '2024-10-28T14:23:42'
 id: 1
 meta:
   collapsed: false
-updated_at: '2024-10-28T14:23:42'
+updated_at: '2024-10-28T16:16:33'
 -->
-{"blocks":[{"key":"2cd2q","text":"Welcome to Querybook! ","type":"header-one","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"fvpk","text":"This is a demo DataDoc.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"8h6cn","text":"Below are some pre-filled cells for you to interact with.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"e573u","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"3j5jq","text":"This is a text cell that can be used for creating narratives and note-taking.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"64j14","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"cgigd","text":"First, click on the Tables section in the left sidebar to look at the tables we have.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"c0ccn","text":"Click on any table and on VIEW TABLE to inspect.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":26,"length":10,"style":"BOLD"}],"entityRanges":[],"data":{}},{"key":"a5jq6","text":"To see its relationship to the other tables,  click on the Lineage tab.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":59,"length":7,"style":"BOLD"}],"entityRanges":[],"data":{}},{"key":"nfd6","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"alj0h","text":"Now, let us get started by clicking on the run button in the query cell below.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
+<h1>Welcome to Querybook!&nbsp;</h1>
+<p>This is a demo DataDoc.</p>
+<p>Below are some pre-filled cells for you to interact with.</p>
+<p><br></p>
+<p>This is a text cell thafqwfqwft can be used for creating narratives and note-taking.</p>
+<p><br></p>
+<p>First, click on the Tables section in the left sidebar to look at the tables we have.</p>
+<p>Click on any table and on <strong>VIEW TABLE</strong> to inspect.</p>
+<p>To see its relationship to the other tables, &nbsp;click on the <strong>Lineage</strong> tab.</p>
+<p><br></p>
+<p>Now, let us get started by clicking on the run button in the query cell below.</p>
 
 
 <!--
@@ -34,7 +44,7 @@ id: 2
 meta:
   engine: 1
   title: Western Europe Countries Ranking
-updated_at: '2024-10-28T14:23:42'
+updated_at: '2024-10-28T16:16:33'
 -->
 ## Query: Western Europe Countries Ranking
 
@@ -44,7 +54,7 @@ SELECT
   Rank2015 AS [2015],
   Rank2016 AS [2016],
   Rank2017 AS [2017],
-  Rank2018 AS [2018],
+  Rank2018 ASfqwfqwf [2018],
   Rank2019 AS [2019]
 FROM
   world_happiness_ranking_2015_to_2019
