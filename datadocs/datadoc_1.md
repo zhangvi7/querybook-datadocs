@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: World Happiness Report (2015-2019)
-updated_at: '2024-10-28T20:36:29'
+updated_at: '2024-10-28T20:36:44'
 ---
 
 # World Happiness Report (2015-2019)
@@ -38,15 +38,26 @@ updated_at: '2024-10-28T16:16:33'
 
 
 <!--
+cell_type: text
+created_at: '2024-10-28T20:36:38'
+id: 14
+meta:
+  collapsed: false
+updated_at: '2024-10-28T20:36:43'
+-->
+<p><br></p>
+
+
+<!--
 cell_type: query
 created_at: '2024-10-28T14:23:42'
 id: 2
 meta:
   engine: 1
-  title: Western Europe Countries Ranking
-updated_at: '2024-10-28T20:36:29'
+  title: qwWestern Europe Countries Ranking
+updated_at: '2024-10-28T20:36:44'
 -->
-## Query: Western Europe Countries Ranking
+## Query: qwWestern Europe Countries Ranking
 
 ```sql
 SELECT
