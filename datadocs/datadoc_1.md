@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: World Happiness Report (2015-2019)
-updated_at: '2024-10-29T03:57:49'
+updated_at: '2024-10-29T04:02:29'
 ---
 
 # World Happiness Report (2015-2019)
@@ -124,6 +124,33 @@ updated_at: '2024-10-28T14:23:42'
 
 <!--
 cell_type: chart
+created_at: '2024-10-29T04:00:24'
+id: 21
+meta:
+  chart:
+    type: line
+    x_axis:
+      col_idx: 0
+      label: ''
+    y_axis:
+      label: ''
+      series: {}
+  collapsed: false
+  data:
+    source_type: cell_above
+    transformations:
+      format: {}
+  title: ''
+  visual: {}
+updated_at: '2024-10-29T04:00:24'
+-->
+## Chart
+
+*Chart generated from the metadata.*
+
+
+<!--
+cell_type: chart
 created_at: '2024-10-28T14:23:42'
 id: 4
 meta:
@@ -207,6 +234,33 @@ meta:
 updated_at: '2024-10-28T14:23:42'
 -->
 {"blocks":[{"key":"4pmfj","text":"Query Cell","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"9c5lj","text":"Here is another query for you to run!","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"cooab","text":"The results can be shared with other users or exported.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"7nfpk","text":"Check out the controls on the bottom right of the Query Editor.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
+
+
+<!--
+cell_type: chart
+created_at: '2024-10-29T04:00:51'
+id: 22
+meta:
+  chart:
+    type: line
+    x_axis:
+      col_idx: 0
+      label: ''
+    y_axis:
+      label: ''
+      series: {}
+  collapsed: false
+  data:
+    source_type: cell_above
+    transformations:
+      format: {}
+  title: ''
+  visual: {}
+updated_at: '2024-10-29T04:00:51'
+-->
+## Chart
+
+*Chart generated from the metadata.*
 
 
 <!--
@@ -427,6 +481,61 @@ meta:
 updated_at: '2024-10-28T14:23:42'
 -->
 {"blocks":[{"key":"ds1ln","text":"Chart Cells: Multiple Charts from Results","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"3opak","text":"The results from a query cell can be manipulated to visualize the data in different ways.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"cnu9f","text":"Below are two examples of the same data.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"anuvc","text":"Check out the configurations to see how the data was transformed.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
+
+
+<!--
+cell_type: chart
+created_at: '2024-10-29T04:02:19'
+id: 23
+meta:
+  chart:
+    type: line
+    x_axis:
+      col_idx: 0
+      label: ''
+    y_axis:
+      label: ''
+      series: {}
+  collapsed: false
+  data:
+    source_type: cell_above
+    transformations:
+      format: {}
+  title: ''
+  visual: {}
+updated_at: '2024-10-29T04:02:19'
+-->
+## Chart
+
+*Chart generated from the metadata.*
+
+
+<!--
+cell_type: text
+created_at: '2024-10-29T04:02:21'
+id: 24
+meta:
+  collapsed: false
+updated_at: '2024-10-29T04:02:28'
+-->
+<h2>Query Cell</h2>
+<p>Here is another query for you to run!</p>
+<p>The results can be shared with other users or exported.</p>
+<p>Check out the controls on the bottom right of the Query Editor.</p>
+
+
+<!--
+cell_type: text
+created_at: '2024-10-29T04:02:23'
+id: 25
+meta:
+  collapsed: false
+updated_at: '2024-10-29T04:02:29'
+-->
+<h2>Query Cell</h2>
+<p>Here is another query for you to run!</p>
+<p>The results can be shared with other users or exported.</p>
+<p>Check out the controls on the bottom right of the Query Editor.</p>
 
 
 <!--
