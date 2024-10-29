@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: World Happiness Report (2015-2019)
-updated_at: '2024-10-28T20:36:54'
+updated_at: '2024-10-29T03:48:19'
 ---
 
 # World Happiness Report (2015-2019)
@@ -22,7 +22,7 @@ created_at: '2024-10-28T14:23:42'
 id: 1
 meta:
   collapsed: false
-updated_at: '2024-10-28T16:16:33'
+updated_at: '2024-10-28T20:37:10'
 -->
 <h1>Welcome to Querybook!&nbsp;</h1>
 <p>This is a demo DataDoc.</p>
@@ -31,8 +31,7 @@ updated_at: '2024-10-28T16:16:33'
 <p>This is a text cell thafqwfqwft can be used for creating narratives and note-taking.</p>
 <p><br></p>
 <p>First, click on the Tables section in the left sidebar to look at the tables we have.</p>
-<p>Click on any table and on <strong>VIEW TABLE</strong> to inspect.</p>
-<p>To see its relationship to the other tables, &nbsp;click on the <strong>Lineage</strong> tab.</p>
+<p>Click on any table and on <strong>VIEW TABLE</strong> to inspectgqwgthe <strong>Lineage</strong> tab.</p>
 <p><br></p>
 <p>Now, let us get started by clicking on the run button in the query cell below.</p>
 
@@ -55,7 +54,7 @@ id: 2
 meta:
   engine: 1
   title: qwWestern Europe Countries Ranking
-updated_at: '2024-10-28T20:36:54'
+updated_at: '2024-10-28T20:37:09'
 -->
 ## Query: qwWestern Europe Countries Ranking
 
@@ -65,7 +64,7 @@ SELECT
   Rank2015 AS [2015],
   Rank2016 AS [2016],
   Rank2017 AS [2017],
-  Rank2018 ASfqwfqwf [2018],rqwr
+  Rank2018 ASfqwfqwf [2018],rqwrfwqfqwf
   Rank2019 AS [2019]
 FROMfqfgqwf
   world_happiness_ranking_2015_to_2019
@@ -202,13 +201,75 @@ LIMIT
 
 <!--
 cell_type: text
+created_at: '2024-10-29T03:48:08'
+id: 17
+meta:
+  collapsed: false
+updated_at: '2024-10-29T03:48:19'
+-->
+<h1>title</h1>
+<h2>subtitle</h2>
+<ul>
+  <li>bullet points</li>
+</ul>
+<ol>
+  <li>List</li>
+</ol>
+<blockquote>Quote</blockquote>
+<p><a href="link.com">Link</a></p>
+
+
+<!--
+cell_type: chart
+created_at: '2024-10-29T00:09:15'
+id: 15
+meta:
+  chart:
+    type: line
+    x_axis:
+      col_idx: 0
+      label: ''
+    y_axis:
+      label: ''
+      series: {}
+  collapsed: false
+  data:
+    source_type: cell_above
+    transformations:
+      format: {}
+  title: ''
+  visual: {}
+updated_at: '2024-10-29T00:09:15'
+-->
+## Chart
+
+*Chart generated from the metadata.*
+
+
+<!--
+cell_type: text
 created_at: '2024-10-28T14:23:42'
 id: 7
 meta:
   collapsed: false
-updated_at: '2024-10-28T14:23:42'
+updated_at: '2024-10-29T03:42:56'
 -->
-{"blocks":[{"key":"asdka","text":"Chart Cell: Bar Charts","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"1k6fm","text":"You can title, label, and configure the chart to display the results in an easy-to-understand manner.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"86fav","text":"Click on `CONFIG CHART` to see the chart settings & explore.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
+<h2>Chart Cell: Bar Charts</h2>
+<p>You can title, label<a href="fqwfwqf">, and configure the chart to display the results in an easy-to-understand manner.</a></p>
+<blockquote><a href="fqwfwqf">Click on `CONFIG CHART` to see the chart settings </a>&amp; explore.</blockquote>
+<blockquote><br></blockquote>
+<blockquote>ffqwf</blockquote>
+
+
+<!--
+cell_type: text
+created_at: '2024-10-29T00:09:32'
+id: 16
+meta:
+  collapsed: false
+updated_at: '2024-10-29T00:09:39'
+-->
+<p>qfqwfwq</p>
 
 
 <!--
