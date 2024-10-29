@@ -11,10 +11,47 @@ meta:
 owner_uid: 1
 public: true
 title: World Happiness Report (2015-2019)
-updated_at: '2024-10-29T03:48:19'
+updated_at: '2024-10-29T03:57:49'
 ---
 
 # World Happiness Report (2015-2019)
+
+<!--
+cell_type: text
+created_at: '2024-10-29T03:57:30'
+id: 18
+meta:
+  collapsed: false
+updated_at: '2024-10-29T03:57:36'
+-->
+<h2>Chart Cell: Line Graph</h2>
+<p>The settings on the chart below has been pre-set to display the results from the query cell above.</p>
+<p>Hover over the chart to see the values in the tooltip.</p>
+
+
+<!--
+cell_type: text
+created_at: '2024-10-29T03:57:32'
+id: 19
+meta:
+  collapsed: false
+updated_at: '2024-10-29T03:57:49'
+-->
+<h2>Chart Cell: Line Graph</h2>
+<p><em>The settings on the chart below has been pre-set to display the results from the query cell above.</em></p>
+<p>Hover over the chart to see the values in the tooltip.</p>
+
+
+<!--
+cell_type: text
+created_at: '2024-10-29T03:57:38'
+id: 20
+meta:
+  collapsed: false
+updated_at: '2024-10-29T03:57:45'
+-->
+<p>Chart Cell: Line Graph</p>
+
 
 <!--
 cell_type: text
