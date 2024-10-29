@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: World Happiness Report (2015-2019)
-updated_at: '2024-10-29T04:02:29'
+updated_at: '2024-10-29T04:08:47'
 ---
 
 # World Happiness Report (2015-2019)
@@ -516,12 +516,11 @@ created_at: '2024-10-29T04:02:21'
 id: 24
 meta:
   collapsed: false
-updated_at: '2024-10-29T04:02:28'
+updated_at: '2024-10-29T04:02:38'
 -->
 <h2>Query Cell</h2>
 <p>Here is another query for you to run!</p>
-<p>The results can be shared with other users or exported.</p>
-<p>Check out the controls on the bottom right of the Query Editor.</p>
+<p>TTGEGWEGWEG</p>
 
 
 <!--
@@ -530,12 +529,32 @@ created_at: '2024-10-29T04:02:23'
 id: 25
 meta:
   collapsed: false
-updated_at: '2024-10-29T04:02:29'
+updated_at: '2024-10-29T04:02:39'
 -->
 <h2>Query Cell</h2>
 <p>Here is another query for you to run!</p>
-<p>The results can be shared with other users or exported.</p>
-<p>Check out the controls on the bottom right of the Query Editor.</p>
+<p>TheGWEGWEGWEGe Query Editor.</p>
+
+
+<!--
+cell_type: text
+created_at: '2024-10-29T04:08:23'
+id: 26
+meta:
+  collapsed: false
+updated_at: '2024-10-29T04:08:47'
+-->
+<h2><del><u><em>fasfwqfqwffqwf</em></u></del></h2>
+<h2><br></h2>
+<h2><del><u><em>f</em></u></del></h2>
+<h2><del><u><em>qwfqw</em></u></del></h2>
+<h2><del><u><em>f</em></u></del></h2>
+<h2><del><u><em>qwqwfqwfwqqw</em></u></del></h2>
+<p><br></p>
+<ol>
+  <li><a href="fqf">qf</a></li>
+</ol>
+<blockquote><a href="fqf">qfqwfqw</a></blockquote>
 
 
 <!--
