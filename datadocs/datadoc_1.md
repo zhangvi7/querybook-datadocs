@@ -26,11 +26,9 @@ updated_at: '2024-10-29T03:57:36'
 -->
 ## Text
 
-```text
 <h2>Chart Cell: Line Graph</h2>
 <p>The settings on the chart below has been pre-set to display the results from the query cell above.</p>
 <p>Hover over the chart to see the values in the tooltip.</p>
-```
 
 
 <!--
@@ -43,11 +41,9 @@ updated_at: '2024-10-29T03:57:49'
 -->
 ## Text
 
-```text
 <h2>Chart Cell: Line Graph</h2>
 <p><em>The settings on the chart below has been pre-set to display the results from the query cell above.</em></p>
 <p>Hover over the chart to see the values in the tooltip.</p>
-```
 
 
 <!--
@@ -60,7 +56,6 @@ updated_at: '2024-10-30T16:14:16'
 -->
 ## Text
 
-```text
 <h1>My Custom text block</h1>
 <p>random text here</p>
 <ul>
@@ -69,7 +64,6 @@ updated_at: '2024-10-30T16:14:16'
   <li>cell 3</li>
 </ul>
 <p><br></p>
-```
 
 
 <!--
@@ -82,9 +76,7 @@ updated_at: '2024-10-29T03:57:45'
 -->
 ## Text
 
-```text
 <p>Chart Cell: Line Graph</p>
-```
 
 
 <!--
@@ -97,7 +89,6 @@ updated_at: '2024-10-28T20:37:10'
 -->
 ## Text
 
-```text
 <h1>Welcome to Querybook!&nbsp;</h1>
 <p>This is a demo DataDoc.</p>
 <p>Below are some pre-filled cells for you to interact with.</p>
@@ -108,7 +99,6 @@ updated_at: '2024-10-28T20:37:10'
 <p>Click on any table and on <strong>VIEW TABLE</strong> to inspectgqwgthe <strong>Lineage</strong> tab.</p>
 <p><br></p>
 <p>Now, let us get started by clicking on the run button in the query cell below.</p>
-```
 
 
 <!--
@@ -121,9 +111,7 @@ updated_at: '2024-10-28T20:36:43'
 -->
 ## Text
 
-```text
 <p><br></p>
-```
 
 
 <!--
@@ -163,9 +151,7 @@ updated_at: '2024-10-28T14:23:42'
 -->
 ## Text
 
-```text
 {"blocks":[{"key":"ahup0","text":"Chart Cell: Line Graph","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"tlat","text":"The settings on the chart below has been pre-set to display the results from the query cell above.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"vnl1","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"at9lo","text":"Hover over the chart to see the values in the tooltip.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
-```
 
 
 <!--
@@ -192,9 +178,7 @@ updated_at: '2024-10-29T04:00:24'
 -->
 ## Chart
 
-```text
 *Chart generated from the metadata.*
-```
 
 
 <!--
@@ -270,9 +254,7 @@ updated_at: '2024-10-28T14:23:42'
 -->
 ## Chart
 
-```text
 *Chart generated from the metadata.*
-```
 
 
 <!--
@@ -285,9 +267,7 @@ updated_at: '2024-10-28T14:23:42'
 -->
 ## Text
 
-```text
 {"blocks":[{"key":"4pmfj","text":"Query Cell","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"9c5lj","text":"Here is another query for you to run!","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"cooab","text":"The results can be shared with other users or exported.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"7nfpk","text":"Check out the controls on the bottom right of the Query Editor.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
-```
 
 
 <!--
@@ -314,9 +294,7 @@ updated_at: '2024-10-29T04:00:51'
 -->
 ## Chart
 
-```text
 *Chart generated from the metadata.*
-```
 
 
 <!--
@@ -356,7 +334,6 @@ updated_at: '2024-10-29T03:48:19'
 -->
 ## Text
 
-```text
 <h1>title</h1>
 <h2>subtitle</h2>
 <ul>
@@ -367,7 +344,6 @@ updated_at: '2024-10-29T03:48:19'
 </ol>
 <blockquote>Quote</blockquote>
 <p><a href="link.com">Link</a></p>
-```
 
 
 <!--
@@ -394,9 +370,7 @@ updated_at: '2024-10-29T00:09:15'
 -->
 ## Chart
 
-```text
 *Chart generated from the metadata.*
-```
 
 
 <!--
@@ -409,13 +383,11 @@ updated_at: '2024-10-29T03:42:56'
 -->
 ## Text
 
-```text
 <h2>Chart Cell: Bar Charts</h2>
 <p>You can title, label<a href="fqwfwqf">, and configure the chart to display the results in an easy-to-understand manner.</a></p>
 <blockquote><a href="fqwfwqf">Click on `CONFIG CHART` to see the chart settings </a>&amp; explore.</blockquote>
 <blockquote><br></blockquote>
 <blockquote>ffqwf</blockquote>
-```
 
 
 <!--
@@ -428,9 +400,7 @@ updated_at: '2024-10-29T00:09:39'
 -->
 ## Text
 
-```text
 <p>qfqwfwq</p>
-```
 
 
 <!--
@@ -483,9 +453,7 @@ updated_at: '2024-10-28T14:23:42'
 -->
 ## Chart
 
-```text
 *Chart generated from the metadata.*
-```
 
 
 <!--
@@ -498,9 +466,7 @@ updated_at: '2024-10-28T14:23:42'
 -->
 ## Text
 
-```text
 {"blocks":[{"key":"cbs69","text":"Query Cell","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"5ajp","text":"The query cell below has been collapsed. ","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"bvfr2","text":"Query cells can be collapsed in order to make DataDocs easier to view.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"2d2q7","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"f24oq","text":"Hover over the title Top 10 Countries Score to see the cell management buttons.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":21,"length":22,"style":"ITALIC"}],"entityRanges":[],"data":{}},{"key":"4kip1","text":"Click on the dropdown button on the top left or on the cell itself to uncollapse the cell and run the query. ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":48,"length":11,"style":"BOLD"}],"entityRanges":[],"data":{}},{"key":"c0c7","text":"You can click on the lock button that appears next to the dropdown button to change the default setting of the cell when the DataDoc loads.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
-```
 
 
 <!--
@@ -558,9 +524,7 @@ updated_at: '2024-10-28T14:23:42'
 -->
 ## Text
 
-```text
 {"blocks":[{"key":"ds1ln","text":"Chart Cells: Multiple Charts from Results","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"3opak","text":"The results from a query cell can be manipulated to visualize the data in different ways.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"cnu9f","text":"Below are two examples of the same data.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"anuvc","text":"Check out the configurations to see how the data was transformed.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
-```
 
 
 <!--
@@ -587,9 +551,7 @@ updated_at: '2024-10-29T04:02:19'
 -->
 ## Chart
 
-```text
 *Chart generated from the metadata.*
-```
 
 
 <!--
@@ -602,11 +564,9 @@ updated_at: '2024-10-29T04:02:38'
 -->
 ## Text
 
-```text
 <h2>Query Cell</h2>
 <p>Here is another query for you to run!</p>
 <p>TTGEGWEGWEG</p>
-```
 
 
 <!--
@@ -619,11 +579,9 @@ updated_at: '2024-10-29T04:02:39'
 -->
 ## Text
 
-```text
 <h2>Query Cell</h2>
 <p>Here is another query for you to run!</p>
 <p>TheGWEGWEGWEGe Query Editor.</p>
-```
 
 
 <!--
@@ -636,7 +594,6 @@ updated_at: '2024-10-29T04:08:47'
 -->
 ## Text
 
-```text
 <h2><del><u><em>fasfwqfqwffqwf</em></u></del></h2>
 <h2><br></h2>
 <h2><del><u><em>f</em></u></del></h2>
@@ -648,7 +605,6 @@ updated_at: '2024-10-29T04:08:47'
   <li><a href="fqf">qf</a></li>
 </ol>
 <blockquote><a href="fqf">qfqwfqw</a></blockquote>
-```
 
 
 <!--
@@ -699,9 +655,7 @@ updated_at: '2024-10-28T14:23:42'
 -->
 ## Chart
 
-```text
 *Chart generated from the metadata.*
-```
 
 
 <!--
@@ -771,6 +725,4 @@ updated_at: '2024-10-28T14:23:42'
 -->
 ## Chart
 
-```text
 *Chart generated from the metadata.*
-```
