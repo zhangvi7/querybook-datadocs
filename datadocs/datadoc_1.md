@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: World Happiness Report (2015-2019)
-updated_at: '2024-10-30T16:14:16'
+updated_at: '2024-10-30T23:19:58'
 ---
 
 # World Happiness Report (2015-2019)
@@ -37,11 +37,11 @@ created_at: '2024-10-29T03:57:32'
 id: 19
 meta:
   collapsed: false
-updated_at: '2024-10-29T03:57:49'
+updated_at: '2024-10-30T23:19:58'
 -->
 ## Text
 
-<h2>Chart Cell: Line Graph</h2>
+<h2>Chart Cell: Line fqwfqwfqwfqfGraph</h2>
 <p><em>The settings on the chart below has been pre-set to display the results from the query cell above.</em></p>
 <p>Hover over the chart to see the values in the tooltip.</p>
 
