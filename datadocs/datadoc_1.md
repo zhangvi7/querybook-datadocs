@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: World Happiness Report (2015-2019)
-updated_at: '2024-10-29T04:08:47'
+updated_at: '2024-10-30T16:13:46'
 ---
 
 # World Happiness Report (2015-2019)
@@ -47,6 +47,21 @@ updated_at: '2024-10-29T03:57:49'
 <h2>Chart Cell: Line Graph</h2>
 <p><em>The settings on the chart below has been pre-set to display the results from the query cell above.</em></p>
 <p>Hover over the chart to see the values in the tooltip.</p>
+```
+
+
+<!--
+cell_type: text
+created_at: '2024-10-30T16:13:46'
+id: 27
+meta:
+  collapsed: false
+updated_at: '2024-10-30T16:13:46'
+-->
+## Text
+
+```text
+{"blocks":[{"key":"8icma","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
 ```
 
 
