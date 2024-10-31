@@ -11,95 +11,10 @@ meta:
 owner_uid: 1
 public: true
 title: World Happinefqwfss Report (2015-2019)
-updated_at: '2024-10-30T23:20:13'
+updated_at: '2024-10-31T20:22:37'
 ---
 
 # World Happinefqwfss Report (2015-2019)
-
-<!--
-cell_type: text
-created_at: '2024-10-29T03:57:30'
-id: 18
-meta:
-  collapsed: false
-updated_at: '2024-10-29T03:57:36'
--->
-## Text
-
-<h2>Chart Cell: Line Graph</h2>
-<p>The settings on the chart below has been pre-set to display the results from the query cell above.</p>
-<p>Hover over the chart to see the values in the tooltip.</p>
-
-
-<!--
-cell_type: text
-created_at: '2024-10-29T03:57:32'
-id: 19
-meta:
-  collapsed: false
-updated_at: '2024-10-30T23:19:58'
--->
-## Text
-
-<h2>Chart Cell: Line fqwfqwfqwfqfGraph</h2>
-<p><em>The settings on the chart below has been pre-set to display the results from the query cell above.</em></p>
-<p>Hover over the chart to see the values in the tooltip.</p>
-
-
-<!--
-cell_type: text
-created_at: '2024-10-30T16:13:46'
-id: 27
-meta:
-  collapsed: false
-updated_at: '2024-10-30T23:20:13'
--->
-## Text
-
-<h1>My Cusfqwftom text block</h1>
-<p>random text here</p>
-<ul>
-  <li>- cell 1</li>
-  <li>cell 2&nbsp;</li>
-  <li>cell 3</li>
-</ul>
-<p><br></p>
-
-
-<!--
-cell_type: text
-created_at: '2024-10-29T03:57:38'
-id: 20
-meta:
-  collapsed: false
-updated_at: '2024-10-29T03:57:45'
--->
-## Text
-
-<p>Chart Cell: Line Graph</p>
-
-
-<!--
-cell_type: text
-created_at: '2024-10-28T14:23:42'
-id: 1
-meta:
-  collapsed: false
-updated_at: '2024-10-28T20:37:10'
--->
-## Text
-
-<h1>Welcome to Querybook!&nbsp;</h1>
-<p>This is a demo DataDoc.</p>
-<p>Below are some pre-filled cells for you to interact with.</p>
-<p><br></p>
-<p>This is a text cell thafqwfqwft can be used for creating narratives and note-taking.</p>
-<p><br></p>
-<p>First, click on the Tables section in the left sidebar to look at the tables we have.</p>
-<p>Click on any table and on <strong>VIEW TABLE</strong> to inspectgqwgthe <strong>Lineage</strong> tab.</p>
-<p><br></p>
-<p>Now, let us get started by clicking on the run button in the query cell below.</p>
-
 
 <!--
 cell_type: text
