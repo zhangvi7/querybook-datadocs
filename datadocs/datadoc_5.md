@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: Sample datadoc title
-updated_at: '2024-11-04T15:51:56'
+updated_at: '2024-11-04T15:53:25'
 ---
 
 # Sample datadoc title
@@ -23,20 +23,20 @@ id: 31
 meta:
   engine: 1
   title: Western Europe Countries Ranking
-updated_at: '2024-11-04T15:51:27'
+updated_at: '2024-11-04T15:53:17'
 -->
 ## Query: Western Europe Countries Ranking
 
 ```sql
 SELECT
-  Country,4124
+  Country,
   Rank2015 AS [2015],
   Rank2016 AS [2016],
   Rank2017 AS [2017],
   Rank2018 AS [2018],
   Rank2019 AS [2019]
 FROM
-  world_happiness_ranking_2015_to_2019
+  main.world_happiness_2017
 WHERE Region = "{{Region}}";
 ```
 
@@ -47,11 +47,11 @@ created_at: '2024-11-04T15:50:36'
 id: 32
 meta:
   collapsed: false
-updated_at: '2024-11-04T15:50:45'
+updated_at: '2024-11-04T15:53:25'
 -->
 ## Text
 
-<p>Some text here!!</p>
+<p>new text blha blha feff23f</p>
 
 
 <!--
