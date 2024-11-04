@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: World Happinefqwfss Report (2015-2019)
-updated_at: '2024-10-31T20:22:37'
+updated_at: '2024-11-04T15:50:23'
 ---
 
 # World Happinefqwfss Report (2015-2019)
@@ -22,11 +22,11 @@ created_at: '2024-10-28T20:36:38'
 id: 14
 meta:
   collapsed: false
-updated_at: '2024-10-28T20:36:43'
+updated_at: '2024-11-04T15:50:07'
 -->
 ## Text
 
-<p><br></p>
+<p>sample text cell content here&nbsp;</p>
 
 
 <!--
@@ -35,10 +35,10 @@ created_at: '2024-10-28T14:23:42'
 id: 2
 meta:
   engine: 1
-  title: qwWestern Europe Countries Ranking
-updated_at: '2024-10-28T20:37:09'
+  title: Western Europe Countries Ranking
+updated_at: '2024-11-04T15:50:23'
 -->
-## Query: qwWestern Europe Countries Ranking
+## Query: Western Europe Countries Ranking
 
 ```sql
 SELECT
@@ -46,27 +46,12 @@ SELECT
   Rank2015 AS [2015],
   Rank2016 AS [2016],
   Rank2017 AS [2017],
-  Rank2018 ASfqwfqwf [2018],rqwrfwqfqwf
+  Rank2018 AS [2018],
   Rank2019 AS [2019]
 FROMfqfgqwf
   world_happiness_ranking_2015_to_2019
 WHERE Region = "{{Region}}";
--- Region is a template variable with the value of 'Western Europe'
--- click on the <> button on the bottom right of the DataDoc to configure more!
 ```
-
-
-<!--
-cell_type: text
-created_at: '2024-10-28T14:23:42'
-id: 3
-meta:
-  collapsed: false
-updated_at: '2024-10-28T14:23:42'
--->
-## Text
-
-{"blocks":[{"key":"ahup0","text":"Chart Cell: Line Graph","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"tlat","text":"The settings on the chart below has been pre-set to display the results from the query cell above.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"vnl1","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"at9lo","text":"Hover over the chart to see the values in the tooltip.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
 
 
 <!--
@@ -170,19 +155,6 @@ updated_at: '2024-10-28T14:23:42'
 ## Chart
 
 *Chart generated from the metadata.*
-
-
-<!--
-cell_type: text
-created_at: '2024-10-28T14:23:42'
-id: 5
-meta:
-  collapsed: false
-updated_at: '2024-10-28T14:23:42'
--->
-## Text
-
-{"blocks":[{"key":"4pmfj","text":"Query Cell","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"9c5lj","text":"Here is another query for you to run!","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"cooab","text":"The results can be shared with other users or exported.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"7nfpk","text":"Check out the controls on the bottom right of the Query Editor.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
 
 
 <!--
