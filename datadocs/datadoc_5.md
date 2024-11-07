@@ -11,19 +11,19 @@ meta:
 owner_uid: 1
 public: true
 title: Sample datadoc title
-updated_at: '2024-11-04T15:53:25'
+updated_at: '2024-11-06T19:21:05'
 ---
 
 # Sample datadoc title
 
 <!--
 cell_type: query
-created_at: '2024-11-01T18:31:49'
-id: 31
+created_at: '2024-11-06T19:21:05'
+id: 524
 meta:
   engine: 1
   title: Western Europe Countries Ranking
-updated_at: '2024-11-04T15:53:17'
+updated_at: '2024-11-06T19:21:05'
 -->
 ## Query: Western Europe Countries Ranking
 
@@ -43,11 +43,11 @@ WHERE Region = "{{Region}}";
 
 <!--
 cell_type: text
-created_at: '2024-11-04T15:50:36'
-id: 32
+created_at: '2024-11-06T19:21:05'
+id: 525
 meta:
   collapsed: false
-updated_at: '2024-11-04T15:53:25'
+updated_at: '2024-11-06T19:21:05'
 -->
 ## Text
 
@@ -56,11 +56,11 @@ updated_at: '2024-11-04T15:53:25'
 
 <!--
 cell_type: text
-created_at: '2024-11-04T15:51:28'
-id: 34
+created_at: '2024-11-06T19:21:05'
+id: 526
 meta:
   collapsed: false
-updated_at: '2024-11-04T15:51:56'
+updated_at: '2024-11-06T19:21:05'
 -->
 ## Text
 
@@ -72,8 +72,8 @@ updated_at: '2024-11-04T15:51:56'
 
 <!--
 cell_type: chart
-created_at: '2024-11-04T15:50:41'
-id: 33
+created_at: '2024-11-06T19:21:05'
+id: 527
 meta:
   chart:
     type: line
@@ -90,8 +90,8 @@ meta:
       format: {}
   title: ''
   visual: {}
-updated_at: '2024-11-04T15:50:41'
+updated_at: '2024-11-06T19:21:05'
 -->
 ## Chart
 
-Chart generated from metadata
+*Chart generated from the metadata.*
