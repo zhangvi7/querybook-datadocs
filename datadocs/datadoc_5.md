@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: Sample dafqwftadoc title
-updated_at: '2024-11-07T19:45:42'
+updated_at: '2024-11-07T19:46:03'
 ---
 
 # Sample dafqwftadoc title
@@ -23,14 +23,12 @@ id: 524
 meta:
   engine: 1
   title: Western Europe Countries Ranking
-updated_at: '2024-11-07T19:45:26'
+updated_at: '2024-11-07T19:46:03'
 -->
 ## Query: Western Europe Countries Ranking
 
 ```sql
-SELECT
-  Country,
-  Rank2015 AS [2015],
+fqwfqwf
   Rank2016 AS [2016],
   Rank2017 AS [2017],
   Rank2018 AS [2018],
