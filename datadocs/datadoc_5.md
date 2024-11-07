@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: Sample datadoc title
-updated_at: '2024-11-06T19:21:05'
+updated_at: '2024-11-07T19:45:18'
 ---
 
 # Sample datadoc title
@@ -23,7 +23,7 @@ id: 524
 meta:
   engine: 1
   title: Western Europe Countries Ranking
-updated_at: '2024-11-06T19:21:05'
+updated_at: '2024-11-07T19:45:18'
 -->
 ## Query: Western Europe Countries Ranking
 
@@ -36,7 +36,7 @@ SELECT
   Rank2018 AS [2018],
   Rank2019 AS [2019]
 FROM
-  main.world_happiness_2017
+  main.world_happiness_201
 WHERE Region = "{{Region}}";
 ```
 
