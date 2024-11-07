@@ -10,11 +10,11 @@ meta:
     value: Western Europe
 owner_uid: 1
 public: true
-title: Sample datadoc title
-updated_at: '2024-11-07T19:45:18'
+title: Sample dafqwftadoc title
+updated_at: '2024-11-07T19:45:42'
 ---
 
-# Sample datadoc title
+# Sample dafqwftadoc title
 
 <!--
 cell_type: query
@@ -23,7 +23,7 @@ id: 524
 meta:
   engine: 1
   title: Western Europe Countries Ranking
-updated_at: '2024-11-07T19:45:18'
+updated_at: '2024-11-07T19:45:26'
 -->
 ## Query: Western Europe Countries Ranking
 
@@ -34,10 +34,7 @@ SELECT
   Rank2016 AS [2016],
   Rank2017 AS [2017],
   Rank2018 AS [2018],
-  Rank2019 AS [2019]
-FROM
-  main.world_happiness_201
-WHERE Region = "{{Region}}";
+  Rank2019
 ```
 
 
@@ -60,13 +57,12 @@ created_at: '2024-11-06T19:21:05'
 id: 526
 meta:
   collapsed: false
-updated_at: '2024-11-06T19:21:05'
+updated_at: '2024-11-07T19:45:42'
 -->
 ## Text
 
 <p><strong>More text cell Content bold</strong></p>
-<p>regular text here</p>
-<p><em>italic text</em></p>
+<p>fqwfq</p>
 <p><br></p>
 
 
