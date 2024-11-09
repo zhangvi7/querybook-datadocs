@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: World Happiness Report (2015-2019)
-updated_at: '2024-11-09T16:22:48'
+updated_at: '2024-11-09T16:24:07'
 ---
 
 # World Happiness Report (2015-2019)
@@ -23,13 +23,13 @@ id: 979
 meta:
   engine: 1
   title: Western Europe Countries Ranking
-updated_at: '2024-11-09T16:22:48'
+updated_at: '2024-11-09T16:24:07'
 -->
 ## Query: Western Europe Countries Ranking
 
 ```sql
 SELECT
-  Country,
+  Country,fa
   Rank2015 AS [2015],
   Rank2016 AS [2016],
   Rank2017 AS [2017],
