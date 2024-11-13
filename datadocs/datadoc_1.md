@@ -1,6 +1,6 @@
 ---
 archived: false
-created_at: '2024-10-28T14:23:42'
+created_at: '2024-11-13T00:40:39'
 environment_id: 1
 id: 1
 meta:
@@ -11,67 +11,68 @@ meta:
 owner_uid: 1
 public: true
 title: World Happiness Report (2015-2019)
-updated_at: '2024-11-09T16:24:07'
+updated_at: '2024-11-13T00:40:39'
 ---
 
 # World Happiness Report (2015-2019)
 
 <!--
+cell_type: text
+created_at: '2024-11-13T00:40:39'
+id: 1
+meta:
+  collapsed: false
+updated_at: '2024-11-13T00:40:39'
+-->
+## Text
+
+{"blocks":[{"key":"2cd2q","text":"Welcome to Querybook! ","type":"header-one","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"fvpk","text":"This is a demo DataDoc.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"8h6cn","text":"Below are some pre-filled cells for you to interact with.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"e573u","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"3j5jq","text":"This is a text cell that can be used for creating narratives and note-taking.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"64j14","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"cgigd","text":"First, click on the Tables section in the left sidebar to look at the tables we have.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"c0ccn","text":"Click on any table and on VIEW TABLE to inspect.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":26,"length":10,"style":"BOLD"}],"entityRanges":[],"data":{}},{"key":"a5jq6","text":"To see its relationship to the other tables,  click on the Lineage tab.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":59,"length":7,"style":"BOLD"}],"entityRanges":[],"data":{}},{"key":"nfd6","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"alj0h","text":"Now, let us get started by clicking on the run button in the query cell below.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
+
+
+<!--
 cell_type: query
-created_at: '2024-11-07T17:42:05'
-id: 979
+created_at: '2024-11-13T00:40:39'
+id: 2
 meta:
   engine: 1
   title: Western Europe Countries Ranking
-updated_at: '2024-11-09T16:24:07'
+updated_at: '2024-11-13T00:40:39'
 -->
 ## Query: Western Europe Countries Ranking
 
 ```sql
 SELECT
-  Country,fa
+  Country,
   Rank2015 AS [2015],
   Rank2016 AS [2016],
   Rank2017 AS [2017],
-  Rank2018 AS [2018],f
+  Rank2018 AS [2018],
   Rank2019 AS [2019]
 FROM
   world_happiness_ranking_2015_to_2019
 WHERE Region = "{{Region}}";
+-- Region is a template variable with the value of 'Western Europe'
+-- click on the <> button on the bottom right of the DataDoc to configure more!
 ```
 
 
 <!--
-cell_type: chart
-created_at: '2024-11-07T17:42:05'
-id: 980
+cell_type: text
+created_at: '2024-11-13T00:40:39'
+id: 3
 meta:
-  chart:
-    type: line
-    x_axis:
-      col_idx: 0
-      label: ''
-    y_axis:
-      label: ''
-      series: {}
   collapsed: false
-  data:
-    source_type: cell_above
-    transformations:
-      format: {}
-  title: ''
-  visual: {}
-updated_at: '2024-11-07T17:42:05'
+updated_at: '2024-11-13T00:40:39'
 -->
-## Chart
+## Text
 
-*Chart generated from the metadata.*
+{"blocks":[{"key":"ahup0","text":"Chart Cell: Line Graph","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"tlat","text":"The settings on the chart below has been pre-set to display the results from the query cell above.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"vnl1","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"at9lo","text":"Hover over the chart to see the values in the tooltip.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
 
 
 <!--
 cell_type: chart
-created_at: '2024-11-07T17:42:05'
-id: 981
+created_at: '2024-11-13T00:40:39'
+id: 4
 meta:
   chart:
     type: line
@@ -137,7 +138,7 @@ meta:
   title: Western Europe Countries Ranking
   visual:
     legend_position: top
-updated_at: '2024-11-07T17:42:05'
+updated_at: '2024-11-13T00:40:39'
 -->
 ## Chart
 
@@ -145,40 +146,26 @@ updated_at: '2024-11-07T17:42:05'
 
 
 <!--
-cell_type: chart
-created_at: '2024-11-07T17:42:05'
-id: 982
+cell_type: text
+created_at: '2024-11-13T00:40:39'
+id: 5
 meta:
-  chart:
-    type: line
-    x_axis:
-      col_idx: 0
-      label: ''
-    y_axis:
-      label: ''
-      series: {}
   collapsed: false
-  data:
-    source_type: cell_above
-    transformations:
-      format: {}
-  title: ''
-  visual: {}
-updated_at: '2024-11-07T17:42:05'
+updated_at: '2024-11-13T00:40:39'
 -->
-## Chart
+## Text
 
-*Chart generated from the metadata.*
+{"blocks":[{"key":"4pmfj","text":"Query Cell","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"9c5lj","text":"Here is another query for you to run!","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"cooab","text":"The results can be shared with other users or exported.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"7nfpk","text":"Check out the controls on the bottom right of the Query Editor.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
 
 
 <!--
 cell_type: query
-created_at: '2024-11-07T17:42:05'
-id: 983
+created_at: '2024-11-13T00:40:39'
+id: 6
 meta:
   engine: 1
   title: 2019 Top 10 Countries
-updated_at: '2024-11-07T17:42:05'
+updated_at: '2024-11-13T00:40:39'
 -->
 ## Query: 2019 Top 10 Countries
 
@@ -200,87 +187,21 @@ LIMIT
 
 <!--
 cell_type: text
-created_at: '2024-11-07T17:42:05'
-id: 984
+created_at: '2024-11-13T00:40:39'
+id: 7
 meta:
   collapsed: false
-updated_at: '2024-11-07T17:42:05'
+updated_at: '2024-11-13T00:40:39'
 -->
 ## Text
 
-<h1>title</h1>
-<h2>subtitle</h2>
-<ul>
-  <li>bullet points</li>
-</ul>
-<ol>
-  <li>List</li>
-</ol>
-<blockquote>Quote</blockquote>
-<p><a href="link.com">Link</a></p>
+{"blocks":[{"key":"asdka","text":"Chart Cell: Bar Charts","type":"header-two","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"1k6fm","text":"You can title, label, and configure the chart to display the results in an easy-to-understand manner.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}},{"key":"86fav","text":"Click on `CONFIG CHART` to see the chart settings & explore.","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{}}],"entityMap":{}}
 
 
 <!--
 cell_type: chart
-created_at: '2024-11-07T17:42:05'
-id: 985
-meta:
-  chart:
-    type: line
-    x_axis:
-      col_idx: 0
-      label: ''
-    y_axis:
-      label: ''
-      series: {}
-  collapsed: false
-  data:
-    source_type: cell_above
-    transformations:
-      format: {}
-  title: ''
-  visual: {}
-updated_at: '2024-11-07T17:42:05'
--->
-## Chart
-
-*Chart generated from the metadata.*
-
-
-<!--
-cell_type: text
-created_at: '2024-11-07T17:42:05'
-id: 986
-meta:
-  collapsed: false
-updated_at: '2024-11-07T17:42:05'
--->
-## Text
-
-<h2>Chart Cell: Bar Charts</h2>
-<p>You can title, label<a href="fqwfwqf">, and configure the chart to display the results in an easy-to-understand manner.</a></p>
-<blockquote><a href="fqwfwqf">Click on `CONFIG CHART` to see the chart settings </a>&amp; explore.</blockquote>
-<blockquote><br></blockquote>
-<blockquote>ffqwf</blockquote>
-
-
-<!--
-cell_type: text
-created_at: '2024-11-07T17:42:05'
-id: 987
-meta:
-  collapsed: false
-updated_at: '2024-11-07T17:42:05'
--->
-## Text
-
-<p>qfqwfwq</p>
-
-
-<!--
-cell_type: chart
-created_at: '2024-11-07T17:42:05'
-id: 988
+created_at: '2024-11-13T00:40:39'
+id: 8
 meta:
   chart:
     type: bar
@@ -323,7 +244,7 @@ meta:
   title: 2019 Top 10 Countries
   visual:
     legend_position: top
-updated_at: '2024-11-07T17:42:05'
+updated_at: '2024-11-13T00:40:39'
 -->
 ## Chart
 
@@ -332,11 +253,11 @@ updated_at: '2024-11-07T17:42:05'
 
 <!--
 cell_type: text
-created_at: '2024-11-07T17:42:05'
-id: 989
+created_at: '2024-11-13T00:40:39'
+id: 9
 meta:
   collapsed: false
-updated_at: '2024-11-07T17:42:05'
+updated_at: '2024-11-13T00:40:39'
 -->
 ## Text
 
@@ -345,13 +266,13 @@ updated_at: '2024-11-07T17:42:05'
 
 <!--
 cell_type: query
-created_at: '2024-11-07T17:42:05'
-id: 990
+created_at: '2024-11-13T00:40:39'
+id: 10
 meta:
   collapsed: false
   engine: 1
   title: Top 10 Countries Score
-updated_at: '2024-11-07T17:42:05'
+updated_at: '2024-11-13T00:40:39'
 -->
 ## Query: Top 10 Countries Score
 
@@ -390,11 +311,11 @@ Score DESC;
 
 <!--
 cell_type: text
-created_at: '2024-11-07T17:42:05'
-id: 991
+created_at: '2024-11-13T00:40:39'
+id: 11
 meta:
   collapsed: false
-updated_at: '2024-11-07T17:42:05'
+updated_at: '2024-11-13T00:40:39'
 -->
 ## Text
 
@@ -403,88 +324,8 @@ updated_at: '2024-11-07T17:42:05'
 
 <!--
 cell_type: chart
-created_at: '2024-11-07T17:42:05'
-id: 992
-meta:
-  chart:
-    type: line
-    x_axis:
-      col_idx: 0
-      label: ''
-    y_axis:
-      label: ''
-      series: {}
-  collapsed: false
-  data:
-    source_type: cell_above
-    transformations:
-      format: {}
-  title: ''
-  visual: {}
-updated_at: '2024-11-07T17:42:05'
--->
-## Chart
-
-*Chart generated from the metadata.*
-
-
-<!--
-cell_type: text
-created_at: '2024-11-07T17:42:05'
-id: 993
-meta:
-  collapsed: false
-updated_at: '2024-11-07T17:42:05'
--->
-## Text
-
-<h2>Query Cell</h2>
-<p>Here is another query for you to run!</p>
-<p>TTGEGWEGWEG</p>
-
-
-<!--
-cell_type: text
-created_at: '2024-11-07T17:42:05'
-id: 994
-meta:
-  collapsed: false
-updated_at: '2024-11-07T17:42:05'
--->
-## Text
-
-<h2>Query Cell</h2>
-<p>Here is another query for you to run!</p>
-<p>TheGWEGWEGWEGe Query Editor.</p>
-
-
-<!--
-cell_type: text
-created_at: '2024-11-07T17:42:05'
-id: 995
-meta:
-  collapsed: false
-updated_at: '2024-11-07T17:42:05'
--->
-## Text
-
-<h2><del><u><em>fasfwqfqwffqwf</em></u></del></h2>
-<h2><br></h2>
-<h2><del><u><em>f</em></u></del></h2>
-<h2><del><u><em>qwfqw</em></u></del></h2>
-<h2><del><u><em>f</em></u></del></h2>
-<h2><del><u><em>qwqwfqwfwqqw</em></u></del></h2>
-<p><br></p>
-<ol>
-  <li><a href="fqf">qf</a></li>
-</ol>
-<blockquote><a href="fqf">qfqwfqw</a></blockquote>
-
-
-<!--
-cell_type: chart
-created_at: '2024-11-07T17:42:05'
-id: 996
+created_at: '2024-11-13T00:40:39'
+id: 12
 meta:
   chart:
     type: bar
@@ -525,7 +366,7 @@ meta:
   title: Top 10 Countries Score
   visual:
     legend_position: top
-updated_at: '2024-11-07T17:42:05'
+updated_at: '2024-11-13T00:40:39'
 -->
 ## Chart
 
@@ -534,8 +375,8 @@ updated_at: '2024-11-07T17:42:05'
 
 <!--
 cell_type: chart
-created_at: '2024-11-07T17:42:05'
-id: 997
+created_at: '2024-11-13T00:40:39'
+id: 13
 meta:
   chart:
     type: histogram
@@ -595,7 +436,7 @@ meta:
   title: Top 10 Countries Score
   visual:
     legend_position: top
-updated_at: '2024-11-07T17:42:05'
+updated_at: '2024-11-13T00:40:39'
 -->
 ## Chart
 
