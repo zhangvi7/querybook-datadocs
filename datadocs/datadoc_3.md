@@ -8,7 +8,7 @@ meta:
 owner_uid: 1
 public: true
 title: Sampling Demo
-updated_at: '2024-11-15T20:18:26'
+updated_at: '2024-11-15T20:27:06'
 ---
 
 # Sampling Demo
@@ -168,6 +168,26 @@ WHERE
 GROUP BY
   1
 LIMIT 1000;
+```
+
+
+<!--
+cell_type: query
+created_at: '2024-11-15T20:26:55'
+id: 49
+meta:
+  engine: 1
+  title: Retrieve Sampled Table Names
+updated_at: '2024-11-15T20:27:06'
+-->
+## Query: Retrieve Sampled Table Names
+
+```sql
+SELECT
+  table_name,
+  sampled_table_name
+FROM
+  bi_internal.sampled_tables
 ```
 
 
