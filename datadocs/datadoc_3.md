@@ -4,23 +4,131 @@ created_at: '2024-11-15T20:17:15'
 environment_id: 1
 id: 3
 meta:
-  variables: []
+  variables:
+  - name: Region
+    type: string
+    value: Western Europe
 owner_uid: 1
 public: true
 title: Sampling Demo
-updated_at: '2024-11-15T20:27:06'
+updated_at: '2024-11-15T20:45:04'
 ---
 
 # Sampling Demo
 
 <!--
 cell_type: query
-created_at: '2024-11-15T20:17:15'
-id: 34
+created_at: '2024-11-15T20:44:31'
+id: 87
+meta:
+  engine: 1
+updated_at: '2024-11-15T20:44:38'
+-->
+## Query: Query
+
+```sql
+SELECT
+  Country,
+  Rank2015 AS [2015],
+  Rank2016 AS [2016],
+  Rank2017 AS [2017],
+  Rank2018 AS [2018],
+  Rank2019 AS [2019]
+FROM
+  world_happiness_ranking_2015_to_2019
+WHERE Region = "{{Region}}";
+```
+
+
+<!--
+cell_type: chart
+created_at: '2024-11-15T20:45:04'
+id: 89
+meta:
+  chart:
+    type: line
+    x_axis:
+      col_idx: 0
+      label: ''
+    y_axis:
+      label: ''
+      series: {}
+  collapsed: false
+  data:
+    source_type: cell_above
+    transformations:
+      format: {}
+  title: ''
+  visual: {}
+updated_at: '2024-11-15T20:45:04'
+-->
+## Chart
+
+*Chart generated from the metadata.*
+
+
+<!--
+cell_type: chart
+created_at: '2024-11-15T20:45:02'
+id: 88
+meta:
+  chart:
+    type: line
+    x_axis:
+      col_idx: 0
+      label: ''
+    y_axis:
+      label: ''
+      series: {}
+  collapsed: false
+  data:
+    source_type: cell_above
+    transformations:
+      format: {}
+  title: ''
+  visual: {}
+updated_at: '2024-11-15T20:45:02'
+-->
+## Chart
+
+*Chart generated from the metadata.*
+
+
+<!--
+cell_type: chart
+created_at: '2024-11-15T20:44:23'
+id: 86
+meta:
+  chart:
+    type: line
+    x_axis:
+      col_idx: 0
+      label: ''
+    y_axis:
+      label: ''
+      series: {}
+  collapsed: false
+  data:
+    source_type: cell_above
+    transformations:
+      format: {}
+  title: ''
+  visual: {}
+updated_at: '2024-11-15T20:44:23'
+-->
+## Chart
+
+*Chart generated from the metadata.*
+
+
+<!--
+cell_type: query
+created_at: '2024-11-15T20:36:29'
+id: 75
 meta:
   engine: 1
   title: Select Test Results from Code Quality History
-updated_at: '2024-11-15T20:17:37'
+updated_at: '2024-11-15T20:36:29'
 -->
 ## Query: Select Test Results from Code Quality History
 
@@ -40,11 +148,11 @@ LIMIT 10;
 
 <!--
 cell_type: query
-created_at: '2024-11-15T20:17:39'
-id: 35
+created_at: '2024-11-15T20:36:29'
+id: 76
 meta:
   engine: 1
-updated_at: '2024-11-15T20:17:39'
+updated_at: '2024-11-15T20:36:29'
 -->
 ## Query: Query
 
@@ -55,11 +163,11 @@ updated_at: '2024-11-15T20:17:39'
 
 <!--
 cell_type: query
-created_at: '2024-11-15T20:17:40'
-id: 36
+created_at: '2024-11-15T20:36:29'
+id: 77
 meta:
   engine: 1
-updated_at: '2024-11-15T20:17:40'
+updated_at: '2024-11-15T20:36:29'
 -->
 ## Query: Query
 
@@ -70,11 +178,11 @@ updated_at: '2024-11-15T20:17:40'
 
 <!--
 cell_type: query
-created_at: '2024-11-15T20:17:41'
-id: 37
+created_at: '2024-11-15T20:36:29'
+id: 78
 meta:
   engine: 1
-updated_at: '2024-11-15T20:17:41'
+updated_at: '2024-11-15T20:36:29'
 -->
 ## Query: Query
 
@@ -85,11 +193,11 @@ updated_at: '2024-11-15T20:17:41'
 
 <!--
 cell_type: text
-created_at: '2024-11-15T20:17:42'
-id: 38
+created_at: '2024-11-15T20:36:29'
+id: 79
 meta:
   collapsed: false
-updated_at: '2024-11-15T20:17:50'
+updated_at: '2024-11-15T20:36:29'
 -->
 ## Text
 
@@ -98,8 +206,8 @@ updated_at: '2024-11-15T20:17:50'
 
 <!--
 cell_type: chart
-created_at: '2024-11-15T20:17:43'
-id: 39
+created_at: '2024-11-15T20:36:29'
+id: 80
 meta:
   chart:
     type: line
@@ -116,7 +224,7 @@ meta:
       format: {}
   title: ''
   visual: {}
-updated_at: '2024-11-15T20:17:43'
+updated_at: '2024-11-15T20:36:29'
 -->
 ## Chart
 
@@ -125,11 +233,11 @@ updated_at: '2024-11-15T20:17:43'
 
 <!--
 cell_type: query
-created_at: '2024-11-15T20:17:45'
-id: 40
+created_at: '2024-11-15T20:36:29'
+id: 81
 meta:
   engine: 1
-updated_at: '2024-11-15T20:17:56'
+updated_at: '2024-11-15T20:36:29'
 -->
 ## Query: Query
 
@@ -150,12 +258,12 @@ group by 1 limit 1000;
 
 <!--
 cell_type: query
-created_at: '2024-11-15T20:17:57'
-id: 41
+created_at: '2024-11-15T20:36:29'
+id: 82
 meta:
   engine: 1
   title: Fetch fefUnique Timestamps from 2024 Onwards
-updated_at: '2024-11-15T20:18:08'
+updated_at: '2024-11-15T20:36:29'
 -->
 ## Query: Fetch fefUnique Timestamps from 2024 Onwards
 
@@ -173,12 +281,12 @@ LIMIT 1000;
 
 <!--
 cell_type: query
-created_at: '2024-11-15T20:26:55'
-id: 49
+created_at: '2024-11-15T20:36:29'
+id: 83
 meta:
   engine: 1
   title: Retrieve Sampled Table Names
-updated_at: '2024-11-15T20:27:06'
+updated_at: '2024-11-15T20:36:29'
 -->
 ## Query: Retrieve Sampled Table Names
 
@@ -193,12 +301,12 @@ FROM
 
 <!--
 cell_type: query
-created_at: '2024-11-15T20:18:07'
-id: 42
+created_at: '2024-11-15T20:36:29'
+id: 84
 meta:
   engine: 1
   title: Compare Full vs Sampled Data Impressions and Repins
-updated_at: '2024-11-15T20:18:18'
+updated_at: '2024-11-15T20:36:29'
 -->
 ## Query: Compare Full vs Sampled Data Impressions and Repins
 
@@ -238,11 +346,12 @@ order by a.dt desc limit 1000;
 
 <!--
 cell_type: query
-created_at: '2024-11-15T20:18:18'
-id: 43
+created_at: '2024-11-15T20:36:29'
+id: 85
 meta:
   engine: 1
-updated_at: '2024-11-15T20:18:26'
+  title: ''
+updated_at: '2024-11-15T20:42:42'
 -->
 ## Query: Query
 
