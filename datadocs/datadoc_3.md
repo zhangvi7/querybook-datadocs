@@ -11,7 +11,7 @@ meta:
 owner_uid: 1
 public: true
 title: Sampling Demo
-updated_at: '2024-11-15T20:45:04'
+updated_at: '2024-11-15T20:46:22'
 ---
 
 # Sampling Demo
@@ -285,10 +285,10 @@ created_at: '2024-11-15T20:36:29'
 id: 83
 meta:
   engine: 1
-  title: Retrieve Sampled Table Names
-updated_at: '2024-11-15T20:36:29'
+  title: ''
+updated_at: '2024-11-15T20:46:22'
 -->
-## Query: Retrieve Sampled Table Names
+## Query: Query
 
 ```sql
 SELECT
@@ -350,10 +350,10 @@ created_at: '2024-11-15T20:36:29'
 id: 85
 meta:
   engine: 1
-  title: ''
-updated_at: '2024-11-15T20:42:42'
+  title: ' '
+updated_at: '2024-11-15T20:46:16'
 -->
-## Query: Query
+## Query:  
 
 ```sql
 /* Query to find the top pinners based on their engagement metrics over the last 90 days */
